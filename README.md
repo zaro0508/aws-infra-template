@@ -1,5 +1,5 @@
 # Overview
-A template to install, configure and manage the AWS organizations account.
+A template to install, configure and manage an AWS account.
 
 ## Instructions to create or update CF stacks
 
